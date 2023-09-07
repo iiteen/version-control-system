@@ -14,7 +14,11 @@ This project is a simple version control system, inspired by Git. It provides ba
 - **Staging area:** Stage changes before committing them, to review and organize your changes.
 
 ## Getting Started
-
+To use this project first git clone 
+gh repo clone iiteen/version_control_system
+Either use latest mingw version or incorporate file-system library in your c++ code.
 To get started with this version control system, clone the repository and follow the instructions in the documentation to set up your environment and start using the system.
+
+**example of basic commands can be seen from video link provided**
 
 I hope you find this project useful and welcome any feedback or contributions!
