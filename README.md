@@ -58,5 +58,10 @@ commit
 - some functions may not work exactly like git, but tried my best to mimic them.
 - **In real when merging using three-way merge, you will be provided with notepad to edit files while conflicts are encountered. But that part, when notepad pops up is not recorded in video as it was recorded using xbox recorder and it records only 1 window at a time. By default I was recording vscode so notepad didn't appear in video.**
 - Internals are left to be explained. They are not covered in video.
+  
+## resources followed
+- `https://www.freecodecamp.org/news/git-internals-objects-branches-create-repo/` [git internals](https://www.freecodecamp.org/news/git-internals-objects-branches-create-repo/)
+- `https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell` [git-docs](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 
+  
 I hope you find this project useful and welcome any feedback or contributions! 😊
