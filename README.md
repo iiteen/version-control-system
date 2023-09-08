@@ -40,8 +40,11 @@ commit
 - Now further commands could be viewed from the video, Thanks.
 
 
-**example of basic commands can be seen from video link provided**
-[video](https://drive.google.com/uc?id=1Y0xREYoJrl9bAcB1uyNKuc7DFIc_KC8y&export=download)
+## **example of basic commands can be seen from video link provided**
+- [video](https://drive.google.com/uc?id=1Y0xREYoJrl9bAcB1uyNKuc7DFIc_KC8y&export=download)
+- ```shell
+  https://drive.google.com/uc?id=1Y0xREYoJrl9bAcB1uyNKuc7DFIc_KC8y&export=download
+  ```
 - video file is large to view online, so just download it.
 
 ## points which need attention.
@@ -50,7 +53,7 @@ commit
 - But this could be managed. Just make another copy of src folder and take it in some other directory, in the new `src` folder delete `variables` directory. Now this new `src` folder could be used for any other working directory.
 
 ## limitations of this project
-- this project could only track files in the working directory. If any file is in the subdirectory of working directory, it won't ne tracked. But this feature could be easily incorporated. (time issues and project deadline).
+- `this project could only track files in the working directory.` If any file is in the subdirectory of working directory, it won't be tracked. But this feature could be easily incorporated. (time issues and project deadline).
 - errors are not managed very well in this project. so just use commands in the right way.
 - some functions may not work exactly like git, but tried my best to mimic them.
 - **In real when merging using three-way merge, you will be provided with notepad to edit files while conflicts are encountered. But that part, when notepad pops up is not recorded in video as it was recorded using xbox recorder and it records only 1 window at a time. By default I was recording vscode so notepad didn't appear in video.**
