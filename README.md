@@ -41,11 +41,7 @@ commit
 
 
 ## **example of basic commands can be seen from video link provided**
-- [video](https://drive.google.com/uc?id=1Y0xREYoJrl9bAcB1uyNKuc7DFIc_KC8y&export=download)
-- ```shell
-  https://drive.google.com/uc?id=1Y0xREYoJrl9bAcB1uyNKuc7DFIc_KC8y&export=download
-  ```
-- video file is large to view online, so just download it.
+[![Watch the video](https://img.youtube.com/vi/c_4S5XtA51s/0.jpg)](https://www.youtube.com/embed/c_4S5XtA51s)
 
 ## points which need attention.
 - when you will run `first.cpp` and first time use `init` then this vcs will create a directroy `.git` in working directory, it contains internal files, commit and all other stuffs.
